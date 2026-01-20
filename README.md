@@ -1,4 +1,4 @@
-<h1 style="font-size: 18px;">✨🌿 Donathan's Secret Valley 🌳✨</h1> 
+<h1 style="font-size: 18px;">✨🌿 Donathan's Portfolio 🌳✨ (OUTDATED) </h1> 
 <p> This is my personal website where you can check out my projects, play some of my minigames, and learn more about me!</p>
 <a href = "https://donathantruong.com">🔗 Check it out here! </a>
 
